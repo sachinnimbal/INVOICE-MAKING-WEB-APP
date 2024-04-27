@@ -1,0 +1,89 @@
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 30
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 30
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 33
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 33
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 35
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 35
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 37
+[02-Feb-2024 15:51:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 37
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 54
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 54
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 57
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 57
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 59
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 59
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 61
+[02-Feb-2024 15:54:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 61
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 65
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 65
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 68
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 68
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 70
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 70
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 72
+[02-Feb-2024 15:56:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 72
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 67
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 67
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 70
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 70
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 72
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 72
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Undefined variable: shop_row in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 74
+[02-Feb-2024 15:57:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 74
+[02-Feb-2024 15:57:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 5
+[02-Feb-2024 15:57:56 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 5
+[02-Feb-2024 15:57:56 UTC] PHP Notice:  Undefined variable: conn in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 11
+[02-Feb-2024 15:57:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 11
+[02-Feb-2024 15:57:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 12
+[02-Feb-2024 15:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 81
+[02-Feb-2024 15:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 84
+[02-Feb-2024 15:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 86
+[02-Feb-2024 15:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 88
+[02-Feb-2024 15:58:19 UTC] PHP Warning:  include(../../admin/connection.php): failed to open stream: No such file or directory in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 5
+[02-Feb-2024 15:58:19 UTC] PHP Warning:  include(): Failed opening '../../admin/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 5
+[02-Feb-2024 15:58:19 UTC] PHP Notice:  Undefined variable: conn in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 11
+[02-Feb-2024 15:58:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 11
+[02-Feb-2024 15:58:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 12
+[02-Feb-2024 15:58:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 81
+[02-Feb-2024 15:58:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 84
+[02-Feb-2024 15:58:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 86
+[02-Feb-2024 15:58:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 88
+[02-Feb-2024 16:27:31 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 54
+[02-Feb-2024 16:27:31 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/secondsc/public_html/verify.secondschoice.co.in/index.php on line 54
+[03-Feb-2024 00:33:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 499
+[03-Feb-2024 00:35:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:35:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 488
+[03-Feb-2024 00:42:18 UTC] PHP Notice:  Undefined index: invoice_id in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 42
+[03-Feb-2024 00:42:18 UTC] PHP Notice:  Undefined index: invoice_id in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 285
+[03-Feb-2024 00:42:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decryptInvoiceId() in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 286
+[03-Feb-2024 00:42:53 UTC] PHP Notice:  Undefined index: invoice_id in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 42
+[03-Feb-2024 00:42:53 UTC] PHP Notice:  Undefined index: invoice_id in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 285
+[03-Feb-2024 00:42:54 UTC] PHP Notice:  Undefined index: invoice_id in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 42
+[03-Feb-2024 00:42:54 UTC] PHP Notice:  Undefined index: invoice_id in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 285
+[03-Feb-2024 00:48:56 UTC] PHP Notice:  Undefined variable: counter in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 298
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 6
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 6
+[03-Feb-2024 02:20:08 UTC] PHP Notice:  Undefined variable: conn in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 11
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 11
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 12
+[03-Feb-2024 02:20:08 UTC] PHP Notice:  Undefined variable: conn in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 33
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 33
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 41
+[03-Feb-2024 02:20:08 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/secondsc/public_html/verify.secondschoice.co.in/exchange-page.php on line 41
+[03-Feb-2024 04:26:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/verify.secondschoice.co.in/invoice-page.php on line 550

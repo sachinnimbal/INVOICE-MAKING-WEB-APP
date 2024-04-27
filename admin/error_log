@@ -1,0 +1,294 @@
+[02-Feb-2024 01:09:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 505
+[02-Feb-2024 01:09:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 505
+[02-Feb-2024 01:09:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 505
+[02-Feb-2024 01:09:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 505
+[02-Feb-2024 01:09:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 505
+[02-Feb-2024 01:10:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 505
+[02-Feb-2024 01:10:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 506
+[02-Feb-2024 01:11:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/secondsc/public_html/admin/invoice-page.php on line 506
+[02-Feb-2024 01:22:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 53
+[02-Feb-2024 01:22:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 97
+[02-Feb-2024 01:22:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 53
+[02-Feb-2024 01:22:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 97
+[02-Feb-2024 01:22:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 53
+[02-Feb-2024 01:22:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 97
+[02-Feb-2024 01:22:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 53
+[02-Feb-2024 01:22:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 97
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 02:14:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: role in /home/secondsc/public_html/admin/profile.php on line 137
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 04:58:43 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 44
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 81
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 149
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 190
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 287
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 411
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 501
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 536
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 577
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/update_query.php on line 614
+[02-Feb-2024 10:28:56 Asia/Kolkata] PHP Warning:  unlink(Profile_img/profile.jpeg): No such file or directory in /home/secondsc/public_html/admin/update_query.php on line 646
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: role in /home/secondsc/public_html/admin/profile.php on line 137
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 04:58:56 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: role in /home/secondsc/public_html/admin/profile.php on line 137
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 04:58:59 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: role in /home/secondsc/public_html/admin/profile.php on line 137
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 05:00:01 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 05:00:09 UTC] PHP Notice:  Undefined index: role in /home/secondsc/public_html/admin/user-list.php on line 97
+[02-Feb-2024 05:00:09 UTC] PHP Notice:  Undefined index: role in /home/secondsc/public_html/admin/user-list.php on line 97
+[02-Feb-2024 05:07:09 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 05:07:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 05:07:09 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 05:07:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 05:07:09 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 05:07:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 05:09:20 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 05:09:20 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 05:09:20 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 05:09:20 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 05:09:20 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 05:09:20 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 05:15:01 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 05:15:01 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 05:15:01 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 05:15:01 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 05:15:01 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 05:15:01 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 05:24:44 UTC] PHP Notice:  Undefined index: note_1 in /home/secondsc/public_html/admin/profile.php on line 461
+[02-Feb-2024 05:24:44 UTC] PHP Notice:  Undefined index: note_2 in /home/secondsc/public_html/admin/profile.php on line 474
+[02-Feb-2024 05:24:44 UTC] PHP Notice:  Undefined index: note_3 in /home/secondsc/public_html/admin/profile.php on line 487
+[02-Feb-2024 05:24:44 UTC] PHP Notice:  Undefined index: exchange_note1 in /home/secondsc/public_html/admin/profile.php on line 504
+[02-Feb-2024 05:24:44 UTC] PHP Notice:  Undefined index: exchange_note2 in /home/secondsc/public_html/admin/profile.php on line 517
+[02-Feb-2024 05:24:44 UTC] PHP Notice:  Undefined index: exchange_note3 in /home/secondsc/public_html/admin/profile.php on line 530
+[02-Feb-2024 05:25:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 53
+[02-Feb-2024 05:25:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/insert_query.php on line 97
+[02-Feb-2024 10:55:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/secondsc/public_html/admin/process_invoice.php on line 66
+[02-Feb-2024 05:27:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/secondsc/public_html/admin/invoice-page.php on line 12
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 240
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 243
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 249
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 250
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 418
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 421
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 424
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 444
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 447
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 449
+[02-Feb-2024 05:27:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 451
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Undefined variable: name in /home/secondsc/public_html/admin/index.php on line 29
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 06:11:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 06:11:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 06:34:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Undefined variable: name in /home/secondsc/public_html/admin/index.php on line 29
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 09:14:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 09:20:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 63
+[02-Feb-2024 09:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/secondsc/public_html/admin/query.php:117
+Stack trace:
+#0 /home/secondsc/public_html/admin/query.php(149): generateOrderReference(Object(mysqli))
+#1 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 117
+[02-Feb-2024 09:21:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 63
+[02-Feb-2024 09:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/secondsc/public_html/admin/query.php:117
+Stack trace:
+#0 /home/secondsc/public_html/admin/query.php(149): generateOrderReference(Object(mysqli))
+#1 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 117
+[02-Feb-2024 09:28:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 63
+[02-Feb-2024 14:58:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 209
+[02-Feb-2024 09:28:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 63
+[02-Feb-2024 14:58:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 209
+[02-Feb-2024 09:31:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 65
+[02-Feb-2024 15:01:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 211
+[02-Feb-2024 09:31:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 65
+[02-Feb-2024 15:01:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 211
+[02-Feb-2024 15:02:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:213
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 213
+[02-Feb-2024 15:03:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:213
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 213
+[02-Feb-2024 15:07:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/secondsc/public_html/admin/query.php:213
+Stack trace:
+#0 {main}
+  thrown in /home/secondsc/public_html/admin/query.php on line 213
+[02-Feb-2024 09:42:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 63
+[02-Feb-2024 15:12:39 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/secondsc/public_html/admin/query.php on line 229
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Undefined variable: name in /home/secondsc/public_html/admin/index.php on line 29
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 11:57:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[02-Feb-2024 14:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 00:16:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/query.php on line 63
+[03-Feb-2024 05:46:20 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/secondsc/public_html/admin/query.php on line 229
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 01:59:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 02:50:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/delete_query.php on line 34
+[03-Feb-2024 02:50:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/delete_query.php on line 61
+[03-Feb-2024 02:50:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/secondsc/public_html/admin/delete_query.php on line 102
+[03-Feb-2024 02:50:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/delete_query.php on line 128
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:02:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:04:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/secondsc/public_html/admin/exchange-page.php on line 7
+[03-Feb-2024 03:04:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/exchange-page.php on line 7
+[03-Feb-2024 03:04:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/secondsc/public_html/admin/exchange-page.php on line 7
+[03-Feb-2024 03:04:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/exchange-page.php on line 7
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Undefined variable: name in /home/secondsc/public_html/admin/index.php on line 29
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:04:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:05:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/secondsc/public_html/admin/invoice-page.php on line 6
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 6
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Undefined variable: name in /home/secondsc/public_html/admin/index.php on line 29
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:07:42 UTC] PHP Notice:  Undefined index: verify_invoice in /home/secondsc/public_html/admin/exchange-history.php on line 87
+[03-Feb-2024 03:10:06 UTC] PHP Notice:  Undefined offset: 0 in /home/secondsc/public_html/admin/exchange-history.php on line 85
+[03-Feb-2024 03:13:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/secondsc/public_html/admin/invoice-page.php on line 6
+[03-Feb-2024 03:13:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 6
+[03-Feb-2024 03:13:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/secondsc/public_html/admin/invoice-page.php on line 6
+[03-Feb-2024 03:13:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/invoice-page.php on line 6
+[03-Feb-2024 03:14:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/secondsc/public_html/admin/exchange-page.php on line 7
+[03-Feb-2024 03:14:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/exchange-page.php on line 7
+[03-Feb-2024 03:19:23 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/includes/navbar.php on line 4
+[03-Feb-2024 03:19:24 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:19:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/navbar.php on line 53
+[03-Feb-2024 03:19:24 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:19:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 25
+[03-Feb-2024 03:19:24 UTC] PHP Notice:  Undefined variable: fetch in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:19:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/secondsc/public_html/admin/includes/sidebar.php on line 34
+[03-Feb-2024 03:19:42 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/exchange-page.php on line 8
+[03-Feb-2024 03:19:59 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/exchange-page.php on line 8
+[03-Feb-2024 03:20:12 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/exchange-page.php on line 8
+[03-Feb-2024 03:20:16 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/exchange-page.php on line 8
+[03-Feb-2024 03:20:49 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/invoice-page.php on line 7
+[03-Feb-2024 03:49:29 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/invoice-page.php on line 7
+[03-Feb-2024 04:08:13 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/exchange-page.php on line 8
+[03-Feb-2024 04:08:17 UTC] PHP Notice:  Undefined index: id in /home/secondsc/public_html/admin/invoice-page.php on line 7
