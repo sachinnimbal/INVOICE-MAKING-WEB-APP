@@ -11,7 +11,7 @@
 6. click on new at side navbar.
 7. give a database name as ```(secondsc_SecondsChoice_db)``` hit on create button.
 8. after creating database name click on import.
-9. browse the file in directory ```[secondsc_SecondsChoice_db]```.
+9. browse the file in directory ```[secondsc_testing_sc_db.sql]```.
 10. after importing successfully.
 11. open any browser and type ```http://localhost/INVOICE-MAKING-WEB-APP```.
 12. admin login details username = admintest and Password=Admin@123.
